@@ -1,0 +1,20 @@
+0|978-1-78862-355-1|Nginx HTTP Server
+1|978-0-13-468599-1|Effective Java
+2|978-1-4919-1889-0|Fluent Python
+3|978-0-596-52068-7|Learning Python
+4|978-0-321-35668-0|Introduction to Algorithms
+5|978-1-59327-584-6|Automate the Boring Stuff with Python
+6|978-1-4919-1881-4|Python for Data Analysis
+7|978-0-321-93444-5|Clean Code
+8|978-0-13-235088-4|The Clean Coder
+9|978-0-262-03384-8|Structure and Interpretation of Computer Programs
+10|978-1-4919-1883-8|Data Science from Scratch
+11|978-1-59327-599-0|Eloquent JavaScript
+12|978-1-4919-4545-2|You Don’t Know JS
+13|978-0-13-110362-7|The C Programming Language
+14|978-1-118-80048-3|Head First Design Patterns
+15|978-1-4919-6026-4|Designing Data-Intensive Applications
+16|978-1-118-30924-3|JavaScript: The Good Parts
+17|978-0-596-00482-8|Programming Perl
+18|978-1-4919-1889-0|High Performance Browser Networking
+19|978-1-4919-1888-3|Hands-On Machine Learning with Scikit-Learn and TensorFlow

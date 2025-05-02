@@ -35,12 +35,47 @@ P: Payments
 R: Reports
 H: Home
 
+![2025-05-01 (7)](https://github.com/user-attachments/assets/a8e7e33f-5233-425f-887e-555b1656e816)
+
+
+
 Reports Screen:
 1: Month To Date
 2: Previous Month
 3: Year To Date
 4: Previous Year
 5: Seach by Vendor
+
+
+
+![2025-05-01 (8)](https://github.com/user-attachments/assets/7729152c-bbd2-4824-943d-656a89f98176)
+
+
+
+This project consists of 6 different class. Each class plays a key role in the format this application runs. 
+
+The Main.java class starts the app by portraying the home screen and handles user navigation. It keeps the application running in a loop until the user exits out.
+
+The Ledger.java is responsible for viewing and displaying trasnaction history from the trasnaction.csv class. It displays all trasnactions, deposits, and payments.
+
+The Report.java is a key role to track when certain deposits or payments were made. It is kept into this file to keep records recorded from different times. They are recorded from Month To Date, Previous month, Year To Date, Previous Year, and has an option to search a report by their vendor.
+
+The Transaction.java class is used to represent the stored fields such as date, time, description, vendor, and amount. This class also has getters to return information.
+
+The TransactionManager.java handles new transactions recorded in both deposits and payments, and converts the users input into transaction outputs.
+
+The Transaction.csv class is a simple database where all transaction rercords are stored. It is read from the Ledger and Reports class to portray transaction information accordingly.
+
+
+
+
+One piece of code that I found interesting was when I implemented a filter to my transactions called "FilteredTransactions" to filter the full list of transactions based on the different types of data i needed. It helped me organize data more effectively, which made the Ledger class more powerful and useful to users.  
+
+
+
+![2025-05-01 (9)](https://github.com/user-attachments/assets/f8ef613c-f000-4adc-b892-687c3ab3d6ba)
+
+
 
 
 

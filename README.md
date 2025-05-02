@@ -79,7 +79,7 @@ One piece of code that I found interesting was when I implemented a filter to my
 
 
 How to Run This App
-1.Clone the repository: 
+1.Clone the repository: https://github.com/allenmejia1/Accounting-Ledger-App.git
 
 2. Open the project in IntelliJ or your favorite IDE.
 3. Run `Main.java` to launch the CLI app.

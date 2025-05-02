@@ -78,6 +78,17 @@ One piece of code that I found interesting was when I implemented a filter to my
 
 
 
+How to Run This App
+1.Clone the repository: 
+
+2. Open the project in IntelliJ or your favorite IDE.
+3. Run `Main.java` to launch the CLI app.
+4. Make sure the `transactions.csv` file is in the project root (it will be created automatically if missing).
+
+
+
+
+
 
 
 

@@ -1,5 +1,5 @@
 Welcome to my Accounting-Ledger-App!
-This project is a command line Java application to allow users to track and manage their financial transactions whewnever they want.
+This project is a command line Java application to allow users to track and manage their financial transactions whenever they want.
 
 
 Project Features:
